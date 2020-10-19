@@ -1,0 +1,10 @@
+Package: breastrisk
+Version: 0.0-1
+Date: 2020-10-16
+Title: Density residual score (DRS) used in Tyrer-Cuzick model
+Authors@R: c(person("Adam", "Brentnall", role = c("aut", "cre"), email = "a.brentnall@qmul.ac.uk"))
+Author: Adam Brentnall [aut, cre]
+Maintainer: Adam Brentnall <a.brentnall@qmul.ac.uk>
+Depends: R (>= 3.1.0), methods
+Description: Calculate density residual.
+License: GPL (>= 3)

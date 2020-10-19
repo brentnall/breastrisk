@@ -1,0 +1,9 @@
+importFrom("methods", "new")
+useDynLib(breastrisk,denresid)
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "summary"
+)
+exportClasses(
+    "BreastRisk" 
+)
